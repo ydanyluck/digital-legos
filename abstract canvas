@@ -1,0 +1,27 @@
+function setup() {
+  createCanvas(600, 600);
+}
+
+function draw() {
+  background(160, 300, 800);
+  fill(0, 20, 0);
+
+  //This is a code comment.
+
+  rect(100, 100, 400, 400);
+
+  stroke(200, 0, 0);
+  line(300, 50, 23, 900);
+  line(800, 600, 1, 3);
+  line(300, 50, 23, 900);
+  circle(30, 30, 20);
+  fill(250, 0, 0);
+  stroke(0, 300, 9);
+  circle(85, 25, 80);
+  fill(0, 300, 300);
+  //The turquoise oval has no border
+  noStroke();
+  ellipse(300, 40, 60, 100);
+}
+
+
