@@ -1,3 +1,5 @@
+## Digial Legos: Playing with Javascript Libraries for Creative Purposes
+
 I worked on three wee example from the p5.js library. For each, I took code and entered it into the editor provided, manipulated it and added to it.
 
 1. Creating an abstract canvas : using shapes, background colors, outlines ("strokes"), inside colors ("fill").
